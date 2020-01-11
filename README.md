@@ -18,3 +18,7 @@ A curated list of Datasets that can be used to implement/test curriculum learnin
 |Local-minima-propositions | [Link](https://openreview.net/forum?id=Syoiqwcxx)|  
 |MNIST |[Link](http://yann.lecun.com/exdb/mnist/)|
 |CIFAR |[Link](https://www.cs.toronto.edu/~kriz/cifar.html)|
+
+## Contributing
+
+If you've found any informative resources that you think belong here, be sure to submit a pull request or create an issue!
