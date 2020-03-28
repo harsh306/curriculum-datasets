@@ -14,6 +14,7 @@ A curated list of Datasets that can be used to implement/test curriculum learnin
 | Shapes Four Kaggle | [Link](https://www.kaggle.com/smeschke/four-shapes)|
 | Shapes  3D| [Link](https://github.com/deepmind/3d-shapes)|
 | Shapes Flying | [Link](https://github.com/ferreirafabio/FlyingShapesDataset)|
+| ShapeNet | [Link](https://arxiv.org/pdf/2003.08593.pdf)|
 | Scikit-learn data Generator|[Link](https://scikit-learn.org/stable/modules/classes.html#samples-generator)|
 |Local-minima-propositions | [Link](https://openreview.net/forum?id=Syoiqwcxx)|  
 |MNIST |[Link](http://yann.lecun.com/exdb/mnist/)|
